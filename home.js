@@ -1,7 +1,7 @@
 const imgmap1= [25,18,45,80];/*Percentages*/
 const imgmap2= [45,18,62,80];
 const imgmap3= [65,18,85,80];
-const link1= "";
+const link1= "https://ambitious-cliff-0ff8cef10.azurestaticapps.net";
 const link2= "https://se-node-portfolio-mt.azurewebsites.net/se-getting-to-know-each-other/Gettingtoknow.html";
 const link3= "https://assignment-portfolio-node.azurewebsites.net/";
 window.onresize = resizeImageMap;
